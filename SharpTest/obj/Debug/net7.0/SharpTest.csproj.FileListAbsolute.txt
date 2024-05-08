@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\obj\Debug\net7.0\SharpTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\obj\Debug\net7.0\SharpTest.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\obj\Debug\net7.0\SharpTest.AssemblyInfo.cs
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\obj\Debug\net7.0\SharpTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\bin\Debug\net7.0\SharpTest.exe
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\bin\Debug\net7.0\SharpTest.deps.json
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\bin\Debug\net7.0\SharpTest.runtimeconfig.json
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\bin\Debug\net7.0\SharpTest.dll
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\bin\Debug\net7.0\SharpTest.pdb
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\obj\Debug\net7.0\SharpTest.dll
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\obj\Debug\net7.0\refint\SharpTest.dll
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\obj\Debug\net7.0\SharpTest.pdb
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\obj\Debug\net7.0\SharpTest.genruntimeconfig.cache
+C:\Users\User\Desktop\АттестацияЯзыкиПрог\SharpTest\obj\Debug\net7.0\ref\SharpTest.dll
